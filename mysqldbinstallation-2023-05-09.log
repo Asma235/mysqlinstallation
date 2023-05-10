@@ -1,0 +1,1293 @@
+Updating apt-get ... [31m FAILURE [0m
+Updating apt-get ... [31m FAILURE [0m
+Updating package ... [31m FAILURE [0m
+Updating package ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+installing mysql-shell ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+Hit:3 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Get:4 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:5 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [880 kB]
+Get:6 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [200 kB]
+Get:7 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [897 kB]
+Get:8 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [182 kB]
+Fetched 2386 kB in 1s (1964 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Installing mysql-shell ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (129 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Waiting for cache lock: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 46357 (unattended-upgr)...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (169 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (173 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+current status of mysql-server ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (172 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 7min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 37 (limit: 1141)
+     Memory: 375.3M
+        CPU: 3.082s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+current status of mysql-server ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (171 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 8min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 37 (limit: 1141)
+     Memory: 374.8M
+        CPU: 3.268s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:4 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+Get:5 http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages [613 kB]
+Get:6 http://security.ubuntu.com/ubuntu jammy-security/main Translation-en [135 kB]
+Get:7 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [712 kB]
+Get:8 http://security.ubuntu.com/ubuntu jammy-security/universe Translation-en [121 kB]
+Fetched 1799 kB in 3s (634 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 29min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 379.3M
+        CPU: 7.973s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Get:5 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [862 kB]
+Get:6 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [199 kB]
+Get:7 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [895 kB]
+Get:8 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [182 kB]
+Fetched 2365 kB in 1s (2111 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 32min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 377.9M
+        CPU: 8.633s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 33min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 378.7M
+        CPU: 8.924s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 35min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 377.9M
+        CPU: 9.528s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 42min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 382.0M
+        CPU: 10.943s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 45min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 381.4M
+        CPU: 11.751s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 51min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 385.4M
+        CPU: 13.100s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+connected to mysql server ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Get:4 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+Get:5 http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages [580 kB]
+Get:6 http://security.ubuntu.com/ubuntu jammy-security/main Translation-en [133 kB]
+Get:7 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [712 kB]
+Get:8 http://security.ubuntu.com/ubuntu jammy-security/universe Translation-en [121 kB]
+Fetched 1656 kB in 2s (845 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-shell ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 1h 11min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 378.3M
+        CPU: 17.735s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+connected to mysql server ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+Hit:3 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Get:4 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:5 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [827 kB]
+Get:6 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [197 kB]
+Get:7 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [895 kB]
+Get:8 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [182 kB]
+Fetched 2328 kB in 1s (1960 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 6min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 377.6M
+        CPU: 29.899s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+logging to mysql ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (169 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 10min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 377.5M
+        CPU: 30.703s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+logging to mysql ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:4 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+Get:5 http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages [551 kB]
+Get:6 http://security.ubuntu.com/ubuntu jammy-security/main Translation-en [130 kB]
+Get:7 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [710 kB]
+Get:8 http://security.ubuntu.com/ubuntu jammy-security/universe Translation-en [121 kB]
+Fetched 1730 kB in 2s (907 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 19min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 376.0M
+        CPU: 32.683s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (168 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 25min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 376.0M
+        CPU: 34.004s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+LOGGING TO MYSQL SERVER ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+Hit:3 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Get:4 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:5 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [796 kB]
+Get:6 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [193 kB]
+Get:7 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [893 kB]
+Get:8 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [182 kB]
+Fetched 2291 kB in 1s (1965 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 26min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 376.0M
+        CPU: 34.349s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+LOGGING TO MYSQL SERVER ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (169 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 34min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 375.9M
+        CPU: 36.085s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+LOGGING TO MYSQL SERVER ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (171 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 37min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 375.9M
+        CPU: 36.898s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+LOGGING TO MYSQL SERVER ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:4 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Fetched 108 kB in 1s (160 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 39min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 381.6M
+        CPU: 37.378s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running ... [32m SUCCESS [0m
+LOGGING TO MYSQL SERVER ... [32m SUCCESS [0m
+connected to mysql server ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (167 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 45min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 380.8M
+        CPU: 38.723s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (170 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 2h 50min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 385.0M
+        CPU: 39.712s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'root' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:4 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+Get:5 http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages [541 kB]
+Get:6 http://security.ubuntu.com/ubuntu jammy-security/main Translation-en [130 kB]
+Get:7 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [710 kB]
+Get:8 http://security.ubuntu.com/ubuntu jammy-security/universe Translation-en [121 kB]
+Fetched 1719 kB in 2s (927 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 3h 7min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 379.4M
+        CPU: 43.370s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (167 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 3h 9min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 381.6M
+        CPU: 43.904s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma' ... [32m SUCCESS [0m
+granting privileges to mysql user 'asma' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Get:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 108 kB in 1s (170 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 3h 11min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 381.3M
+        CPU: 44.402s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma' ... [32m SUCCESS [0m
+granting privileges to mysql user 'asma' ... [32m SUCCESS [0m
+connecting to mysql server with user 'asma' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+Hit:3 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Get:4 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:5 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [785 kB]
+Get:6 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [193 kB]
+Get:7 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [893 kB]
+Get:8 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [182 kB]
+Fetched 2279 kB in 1s (1634 kB/s)
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 18min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 389.6M
+        CPU: 59.378s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma' ... [32m SUCCESS [0m
+granting privileges to mysql user 'asma' ... [32m SUCCESS [0m
+Database
+information_schema
+mysql
+performance_schema
+sys
+connecting to mysql server with user 'asma' ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 22min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 391.6M
+        CPU: 1min 197ms
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'ram' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 22min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 389.6M
+        CPU: 1min 337ms
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma123' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 23min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 388.4M
+        CPU: 1min 400ms
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 23min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 387.4M
+        CPU: 1min 540ms
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asma11' ... [32m SUCCESS [0m
+granting privileges to mysql user 'asma11' ... [32m SUCCESS [0m
+Database
+information_schema
+mysql
+performance_schema
+sys
+connecting to mysql server with user 'asma11' ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 25min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 388.5M
+        CPU: 1min 1.020s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'asmashaik' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 25min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 387.9M
+        CPU: 1min 1.112s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'Asma123' ... [32m SUCCESS [0m
+granting privileges to mysql user 'Asma123' ... [32m SUCCESS [0m
+Database
+information_schema
+mysql
+performance_schema
+sys
+connecting to mysql server with user 'Asma123' ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 53min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 387.5M
+        CPU: 1min 7.366s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'Asma' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 4h 53min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 387.0M
+        CPU: 1min 7.494s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user '' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 23min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 386.2M
+        CPU: 1min 14.162s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 24min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 386.1M
+        CPU: 1min 14.230s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 26min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 385.7M
+        CPU: 1min 14.662s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user '' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 26min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 386.1M
+        CPU: 1min 14.722s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user '' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 27min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 386.9M
+        CPU: 1min 14.939s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user '' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 27min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 386.7M
+        CPU: 1min 15.078s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'praveen' ... [32m SUCCESS [0m
+granting privileges to mysql user 'praveen' ... [32m SUCCESS [0m
+Database
+information_schema
+mysql
+performance_schema
+sys
+connecting to mysql server with user 'praveen' ... [32m SUCCESS [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 35min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 394.2M
+        CPU: 1min 16.771s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'sana' ... [31m FAILURE [0m
+Hit:1 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-south-1.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Reading package lists...
+Updating package ... [32m SUCCESS [0m
+Reading package lists...
+Building dependency tree...
+Reading state information...
+mysql-server is already the newest version (8.0.33-0ubuntu0.22.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 22 not upgraded.
+installing mysql-server ... [32m SUCCESS [0m
+● mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: active (running) since Tue 2023-05-09 06:29:20 UTC; 5h 35min ago
+    Process: 47284 ExecStartPre=/usr/share/mysql/mysql-systemd-start pre (code=exited, status=0/SUCCESS)
+   Main PID: 47292 (mysqld)
+     Status: "Server is operational"
+      Tasks: 38 (limit: 1141)
+     Memory: 392.7M
+        CPU: 1min 16.869s
+     CGroup: /system.slice/mysql.service
+             └─47292 /usr/sbin/mysqld
+
+May 09 06:29:18 ip-172-31-3-30 systemd[1]: Starting MySQL Community Server...
+May 09 06:29:20 ip-172-31-3-30 systemd[1]: Started MySQL Community Server.
+running mysql ... [32m SUCCESS [0m
+creating mysql user 'sana' ... [32m SUCCESS [0m
+granting privileges to mysql user 'sana' ... [32m SUCCESS [0m
+Database
+information_schema
+mysql
+performance_schema
+sys
+connecting to mysql server with user 'sana' ... [32m SUCCESS [0m
